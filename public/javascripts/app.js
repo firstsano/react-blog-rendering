@@ -1,5 +1,5 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import App from "components/app";
+import BlogPage from "components/BlogPage";
 
-ReactDOM.render(<App />, document.getElementById("content"));
+ReactDOM.render(<BlogPage />, document.getElementById("content"));
